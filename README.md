@@ -12,3 +12,5 @@ https://adamjfield.github.io/run-buddy/
 
 ## contribution
 made with ❤️ by Adam Field
+
+©️2019 Run Buddy, Inc 
